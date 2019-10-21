@@ -2,3 +2,7 @@
 An example repository for everyone to have a go.
 
 Here is a link to the skills sessions pages https://grd349.github.io/SkillzSessions/ 
+
+# Very Important Information
+
+This information is very important, do not forget it. The fate of the world depends on it.
