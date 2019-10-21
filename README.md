@@ -9,6 +9,10 @@ Guy!?!?!?!?!?!??!?!?!?!?!?!?!?!?!
 
 ![](GIFS/nyangit.gif)
 
+# Very Important Information
+
+This information is very important, do not forget it. The fate of the world depends on it.
+
 ![](AMYDOG.jpg)
 
 ![](IMG_20190825_164711070.jpg)
