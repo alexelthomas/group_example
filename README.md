@@ -7,8 +7,6 @@ If you found this then you will know that Guy is the best.
 
 Guy!?!?!?!?!?!??!?!?!?!?!?!?!?!?!
 
-<<<<<<< HEAD
-This is a change.
-=======
 ![](GIFS/nyangit.gif)
->>>>>>> e47945c4571f8d05380223951340769fc4129fc3
+
+![](AMYDOG.jpg)
