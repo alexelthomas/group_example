@@ -12,3 +12,5 @@ Guy!?!?!?!?!?!??!?!?!?!?!?!?!?!?!
 # Very Important Information
 
 This information is very important, do not forget it. The fate of the world depends on it.
+
+![](AMYDOG.jpg)
